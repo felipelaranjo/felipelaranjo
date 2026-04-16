@@ -1,14 +1,14 @@
 # Olá, eu sou o Felipe Moreira Laranjo! 👋
 
-### 👨‍🏫 Sobre Mim:
-* 🎓 Sou aluno do curso de **Desenvolvimento de Sistemas** na instituição **ETEC Jardim Ângela**.
-* 💡 Atualmente estou focado em aprender **PHP** e **C#**.
-* 🎯 Meu objetivo é me tornar um desenvolvedor **Fullstack**.
-* 🌱 No momento, estou desenvolvendo projetos práticos para aplicar meus conhecimentos em lógica e estrutura de dados.
+###  Sobre Mim:
+*  Sou aluno do curso de **Desenvolvimento de Sistemas** na instituição **ETEC Jardim Ângela**.
+*  Atualmente estou focado em aprender **PHP** e **C#**.
+*  Meu objetivo é me tornar um desenvolvedor **Fullstack**.
+*  No momento, estou desenvolvendo projetos práticos para aplicar meus conhecimentos em lógica e estrutura de dados.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+###  Tecnologias e Ferramentas:
 Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 
 <div align="left">
@@ -23,7 +23,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 
 ---
 
-### 📫 Como me encontrar:
+###  Como me encontrar:
 
 <a href="mailto:seuemail@provedor.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
